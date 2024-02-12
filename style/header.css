@@ -170,6 +170,6 @@ header {
     }
 
     #top__navbar__links {
-        /* display: none; */
+        display: none; 
     }
 }

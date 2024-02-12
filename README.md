@@ -1,5 +1,7 @@
 README for MazeCart: Streamlined Grocery Delivery
 
+
+
 ## Team Members
 
 - EDGAR BALUKU: Frontend Developer. Responsible for designing and implementing the user interface and user experience of the grocery delivery system.
@@ -108,4 +110,5 @@ This data model allows for efficient storage and retrieval of customer informati
 - As a user, I want to have access to my shopping history, including past orders and receipts.
 
 Please note that this README provides a comprehensive overview of the SwiftCart project, including team members, technologies, challenges, infrastructure, APIs, data model, and user stories. It serves as a guide for understanding the project and its objectives.
+
 
