@@ -1,6 +1,6 @@
 README for MazeCart: Streamlined Grocery Delivery
 
-
+https://balukuu.github.io/mazecart.github.io/
 
 ## Team Members
 
