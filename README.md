@@ -12,7 +12,7 @@ The roles have been decided based on the team members' skills and expertise, ens
 
 ## Overview
 
-The SwiftCart project aims to revolutionize the grocery shopping experience by providing a streamlined and efficient grocery delivery system. With SwiftCart, users can conveniently order groceries online and have them delivered to their doorstep. The project focuses on enhancing user convenience, optimizing delivery routes, and providing a personalized shopping experience.
+The MazeCart project aims to revolutionize the grocery shopping experience by providing a streamlined and efficient grocery delivery system. With SwiftCart, users can conveniently order groceries online and have them delivered to their doorstep. The project focuses on enhancing user convenience, optimizing delivery routes, and providing a personalized shopping experience.
 
 ## Technologies
 
