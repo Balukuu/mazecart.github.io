@@ -12,7 +12,7 @@ The roles have been decided based on the team members' skills and expertise, ens
 
 ## Overview
 
-The MazeCart project aims to revolutionize the grocery shopping experience by providing a streamlined and efficient grocery delivery system. With SwiftCart, users can conveniently order groceries online and have them delivered to their doorstep. The project focuses on enhancing user convenience, optimizing delivery routes, and providing a personalized shopping experience.
+The MazeCart project aims to revolutionize the grocery shopping experience by providing a streamlined and efficient grocery delivery system. With MazeCart, users can conveniently order groceries online and have them delivered to their doorstep. The project focuses on enhancing user convenience, optimizing delivery routes, and providing a personalized shopping experience.
 
 ## Technologies
 
@@ -25,9 +25,9 @@ The project utilizes the following technologies:
 
 ## Challenge Statement
 
-The Grocery Delivery System aims to solve the problem of time-consuming and inefficient grocery shopping by providing a convenient online platform for users to order groceries and have them delivered to their doorstep. SwiftCart simplifies the process and saves time for users, allowing them to focus on their important tasks. However, it does not address issues related to supply chain management and inventory control for grocery stores.
+The Grocery Delivery System aims to solve the problem of time-consuming and inefficient grocery shopping by providing a convenient online platform for users to order groceries and have them delivered to their doorstep. MazeCart simplifies the process and saves time for users, allowing them to focus on their important tasks. However, it does not address issues related to supply chain management and inventory control for grocery stores.
 
-The SwiftCart system will help busy individuals, elderly people, and those with limited mobility who find it challenging to visit physical stores regularly. It will also benefit grocery stores by expanding their customer reach and increasing sales. The project is not specifically dependent on a particular locale and can be implemented in any area with adequate delivery infrastructure.
+The MAZECart system will help busy individuals, elderly people, and those with limited mobility who find it challenging to visit physical stores regularly. It will also benefit grocery stores by expanding their customer reach and increasing sales. The project is not specifically dependent on a particular locale and can be implemented in any area with adequate delivery infrastructure.
 
 ## Risks
 
@@ -48,7 +48,7 @@ Technical risks:
 - Delivery Apps: Several web/mobile solutions specialize in online delivery in multiple fields, especially grocery. Examples include Jumia, widely used in Africa.
 - Local Delivery Services: In recent years, there has been a large influx of young people in the field of delivery. Many start by finding a motorcycle, doing optional modifications, and starting work.
 
-By leveraging technology, SwiftCart aims to transform the grocery shopping experience and make it more convenient and efficient for users.
+By leveraging technology, MazeCart aims to transform the grocery shopping experience and make it more convenient and efficient for users.
 
 ## Architecture
 
